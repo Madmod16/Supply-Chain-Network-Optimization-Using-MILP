@@ -1,0 +1,1 @@
+This project focuses on solving a distribution problem using linear optimization techniques. The objective is to determine the optimal quantity of goods to be shipped between various factories, distribution centers, and customers. The code utilizes the lpSolveAPI library for linear optimization and data.table for efficient data manipulation.
